@@ -13,37 +13,3 @@ Visual assessment and localization of sinkholes in remote sensing images is a ti
 [Ground Slope Map](https://www.kaggle.com/datasets/ayavariabdi/didadataset)
 
 ## Read Image Dataset in Matlab
-Orthomosaic=imread('RGB.png');
-
-Slope=imread('slope_2.tif');
-
-Slope_data=zeros(size(Slope));
-
-for i=1:15979
-
-    for j=1:14770
-    
-        if Slope(i,j)<0
-        
-            Slope_data(i,j)=0;
-            
-        else
-        
-            Slope_data(i,j)=Slope(i,j);
-            
-        end
-        
-    end
-    
-end
-
-imshow(uint8(Orthomosaic),[])
-
-figure
-
-clims = [0 15];
-
-imagesc(Slope_data,clims)
-
-colorbar
-
