@@ -10,6 +10,7 @@ A DJI Phantom 4 Pro-V2.0 quadcopter UAV with an optical camera is used to acquir
 Visual assessment and localization of sinkholes in remote sensing images is a time-consuming and difficult process. In this paper, to tackle with this problem, a new deep learning-based framework is designed and developed. Generally, deep learning methods usually require a large volume of data to obtain an efficient and effective model. However, there is not any publicly available remote sensing image sinkhole dataset. Therefore, a new sinkhole dataset, consisting of RGB image samples with ground slope maps, is created and will be publicly available to the research community to further advance sinkhole classification and localization algorithms. To the best of our knowledge, this dataset is the first one to provide images in RGB color space and ground slope map. 
 
 [RGB Orthomosaic Image](https://www.kaggle.com/datasets/ayavariabdi/didadataset)
+
 [Ground Slope Map](https://www.kaggle.com/datasets/ayavariabdi/didadataset)
 
 ## Read Image Dataset in Matlab
