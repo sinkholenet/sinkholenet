@@ -1,4 +1,4 @@
-![SinkholeNet Dataset](https://drive.google.com/file/d/16oGdP1zJLxYb5F1MH9xXQlBRs9_nDG_w/view?usp=sharing)
+![SinkholeNet](https://drive.google.com/file/d/16oGdP1zJLxYb5F1MH9xXQlBRs9_nDG_w/view?usp=sharing)
 
 ### SinkholeNet: A Multi-Head Deep Learning Model for Sinkhole Classification and Localization
 
