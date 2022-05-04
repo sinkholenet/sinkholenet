@@ -1,6 +1,6 @@
 Orthomosaic=imread('RGB.png');
 Slope_Org=imread('slope_2.tif');
-Slope_Data=zeros(size(a));
+Slope_Data=zeros(size(Slope_Org));
 for i=1:15979
     for j=1:14770
         if Slope_Org(i,j)<0
