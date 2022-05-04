@@ -11,6 +11,9 @@ A new sinkhole dataset, consisting of RGB image samples with ground slope maps, 
 
 [Ground Slope Map](https://www.kaggle.com/datasets/ayavariabdi/sinkholenet?select=slope_2.tif)
 
+## Model
+Model will be shared shortly. 
+
 ## Read Image Dataset in Matlab
 [MATLAB Code for Visualization](https://github.com/sinkholenet/sinkholenet/blob/main/read_data.m)
 
