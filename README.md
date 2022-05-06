@@ -17,7 +17,7 @@ Model will be shared shortly.
 ## Read Image Dataset in Matlab
 [MATLAB Code for Visualization](https://github.com/sinkholenet/sinkholenet/blob/main/read_data.m)
 
-## If you use any of these datasets, please cite:
+## If you use this dataset, please cite:
 
 #### Reference:
 
