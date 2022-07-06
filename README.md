@@ -20,7 +20,7 @@ Model will be shared shortly.
 ## If you use this dataset, please cite:
 
 #### Reference:
-* Amir Yavariabdi, Huseyin Kusetogullari, Osman Orhan, Esra Uray, Vahdettin Demir, and Turgay Celik, SinkholeNet: A Novel Sinkhole Dataset and Deep Learning Framework for Sinkhole Classification and Localization in High-resolution RGB-D Images, May 2022. Accessed on: May 05, 2022. Available: [https://github.com/sinkholenet/sinkholenet/](https://github.com/sinkholenet/sinkholenet/). 
+* Amir Yavariabdi, Huseyin Kusetogullari, Osman Orhan, Esra Uray, Vahdettin Demir, and Turgay Celik, SinkholeNet: A Novel Sinkhole Dataset and Deep Learning Framework for Sinkhole Classification and Localization in High-resolution RGB-D Images, July 2022. Accessed on: July 05, 2022. Available: [https://github.com/sinkholenet/sinkholenet/](https://github.com/sinkholenet/sinkholenet/). 
 
 #### BibTeX:
 
@@ -28,4 +28,4 @@ Model will be shared shortly.
        author = {Amir Yavariabdi and Huseyin Kusetogullari and Osman Orhan and Esra Uray and Vahdettin Demir and Turgay Celik},    
        title = {SinkholeNet: A Novel Sinkhole Dataset and Deep Learning Framework for Sinkhole Classification and Localization in High-resolution RGB-D Images},    
        howpublished = {\url{https://github.com/sinkholenet/sinkholenet/}},  
-       note = {Accessed: 2022-05-04}  
+       note = {Accessed: 2022-07-05}  
