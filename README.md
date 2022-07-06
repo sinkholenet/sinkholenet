@@ -20,11 +20,7 @@ Model will be shared shortly.
 ## If you use this dataset, please cite:
 
 #### Reference:
-
-* Amir Yavariabdi, Huseyin Kusetogullari, Osman Orhan, Esra Uray, Vahdettin Demir, and Turgay Celik, "SinkholeNet: A Novel Deep Learning Framework
-for Sinkhole Classification and Localization in High-resolution Aerial Images", IEEE GEOSCIENCE AND REMOTE SENSING LETTERS, Submitted in 05/2022.
-* Amir Yavariabdi, Huseyin Kusetogullari, Osman Orhan, Esra Uray, Vahdettin Demir, and Turgay Celik, SinkholeNet: A Novel Deep Learning Framework
-for Sinkhole Classification and Localization in High-resolution Aerial Images, May 2022. Accessed on: May 05, 2022. Available: [https://github.com/sinkholenet/sinkholenet/](https://github.com/sinkholenet/sinkholenet/). 
+* Amir Yavariabdi, Huseyin Kusetogullari, Osman Orhan, Esra Uray, Vahdettin Demir, and Turgay Celik, SinkholeNet: A Novel Sinkhole Dataset and Deep Learning Framework for Sinkhole Classification and Localization in High-resolution RGB-D Images, May 2022. Accessed on: May 05, 2022. Available: [https://github.com/sinkholenet/sinkholenet/](https://github.com/sinkholenet/sinkholenet/). 
 
 #### BibTeX:
 
