@@ -18,7 +18,7 @@ A new sinkhole dataset, consisting of RGB image samples with ground slope maps, 
 ## If you use this dataset, please cite:
 
 #### Reference:
-* Amir Yavariabdi, Huseyin Kusetogullari, Osman Orhan, Esra Uray, Vahdettin Demir, and Turgay Celik, SinkholeNet: A Novel Sinkhole Dataset and Deep Learning Framework for Sinkhole Classification and Localization in High-resolution RGB-D Images, July 2022. Accessed on: July 05, 2022. Available: [https://github.com/sinkholenet/sinkholenet/](https://github.com/sinkholenet/sinkholenet/). 
+* Amir Yavariabdi, Huseyin Kusetogullari, Osman Orhan, Esra Uray, Vahdettin Demir, and Turgay Celik, SinkholeNet: A Novel Sinkhole Dataset and Deep Learning Framework for Sinkhole Classification and Localization in High-resolution RGB-D Images, July 2022. Accessed on: Jan 25, 2023. Available: [https://github.com/sinkholenet/sinkholenet/](https://github.com/sinkholenet/sinkholenet/). 
 
 #### BibTeX:
 
@@ -26,4 +26,4 @@ A new sinkhole dataset, consisting of RGB image samples with ground slope maps, 
        author = {Amir Yavariabdi and Huseyin Kusetogullari and Osman Orhan and Esra Uray and Vahdettin Demir and Turgay Celik},    
        title = {SinkholeNet: A Novel Sinkhole Dataset and Deep Learning Framework for Sinkhole Classification and Localization in High-resolution RGB-D Images},    
        howpublished = {\url{https://github.com/sinkholenet/sinkholenet/}},  
-       note = {Accessed: 2022-07-05}  
+       note = {Accessed: 2023-01-25}  
